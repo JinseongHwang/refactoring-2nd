@@ -4,6 +4,7 @@
 
 ## References
 
+- https://github.com/tobyilee/study-refactoring
 - https://github.com/wickedwukong/martin-fowler-refactoring-2nd
 - https://github.com/Youngerjesus/refactoring-2nd-edition
 - [IDE들이 제공하는 리팩터링 기능 목록](https://docs.google.com/spreadsheets/d/1nFx-PjZ9Qs3QBZFzaMo6MSUSrWjSsO-iz5kpBtlVRPQ/edit#gid=866204681)
